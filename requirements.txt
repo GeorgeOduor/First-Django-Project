@@ -13,7 +13,7 @@ MarkupPy==1.14
 numpy==1.18.2
 odfpy==1.4.1
 openpyxl==3.0.3
-Pillow==7.1.1
+Pillow==9.0.1
 PyPika==0.37.3
 pytz==2019.3
 PyYAML==5.3.1
