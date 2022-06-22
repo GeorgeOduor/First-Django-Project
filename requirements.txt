@@ -10,7 +10,7 @@ django-tables2==2.3.1
 et-xmlfile==1.0.1
 jdcal==1.4.1
 MarkupPy==1.14
-numpy==1.18.2
+numpy==1.22.0
 odfpy==1.4.1
 openpyxl==3.0.3
 Pillow==7.1.1
